@@ -15,7 +15,7 @@ The format is: `type(scope): title`
 - **feat**: A new feature
 - **fix**: A bug fix
 - **docs**: Documentation only changes
-- **style**: Changes that don't affect code meaning (white-space, formatting, etc)
+- **style**: Changes that don't affect code behavior (formatting, whitespace, missing semi-colons, etc)
 - **refactor**: Code change that neither fixes a bug nor adds a feature
 - **perf**: A code change that improves performance
 - **test**: Adding missing tests or correcting existing tests
