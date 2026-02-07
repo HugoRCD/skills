@@ -5,7 +5,7 @@ Use these templates as starting points. Ensure each check runs as a separate job
 ## .github/workflows/autofix.yml
 
 ```yml
-name: autofix
+name: autofix.ci
 on:
   pull_request:
 permissions: {}
@@ -19,7 +19,8 @@ jobs:
 ```
 
 Notes:
-- Keep the workflow name as `autofix` (do not name it `autofix.ci`).
+- Keep the workflow file name as `autofix.yml`.
+- Set the workflow `name:` to `autofix.ci`.
 
 ## .github/workflows/ci.yml
 
