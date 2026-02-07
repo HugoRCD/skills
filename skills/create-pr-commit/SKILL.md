@@ -1,6 +1,6 @@
 ---
 name: create-pr-commit
-description: Suggest conventional commit or pull request titles in the format type(scope): title, written in lowercase English. Use when asked to propose commit messages or PR titles, especially for /create-commit or /create-pr requests.
+description: "Suggest conventional commit or pull request titles in the format type(scope): title, written in lowercase English. Use when asked to propose commit messages or PR titles, especially for /create-commit or /create-pr requests."
 ---
 
 # Create Commit/PR Titles
