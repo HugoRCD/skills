@@ -18,10 +18,6 @@ jobs:
       - uses: autofix-ci/action@v1
 ```
 
-Notes:
-- Keep the workflow file name as `autofix.yml`.
-- Set the workflow `name:` to `autofix.ci`.
-
 ## .github/workflows/ci.yml
 
 ```yml
