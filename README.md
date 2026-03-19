@@ -16,7 +16,7 @@ Keep this list up to date as new skills are added.
 
 | Skill | Description |
 | --- | --- |
-| `create-pr-commit` | Suggest conventional commit or pull request titles in the format `type(scope): title`, written in lowercase English. |
+| `create-pr-commit` | Generate branch names, commit titles, and PR titles from project conventions, validating types/scopes against repo rules before suggesting `type(scope): title`. |
 | `setup-for-oss` | Review and bootstrap open-source repo health (OSS) by auditing or scaffolding README, CONTRIBUTING, LICENSE, CI workflows, and related files. |
 | `unslop` | Remove low-signal AI-generated noise by deleting redundant comments, tightening formatting, and normalizing styling patterns. |
 
